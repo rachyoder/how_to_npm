@@ -1,0 +1,15 @@
+{
+  "name": "@ryoder/ry_how_to_npm",
+  "version": "1.0.0",
+  "description": "Test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
